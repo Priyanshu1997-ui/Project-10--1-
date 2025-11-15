@@ -1,0 +1,5 @@
+train: C:/Users/dharm/Downloads/Custom_OCR_Project/datasets/images/train
+val: C:/Users/dharm/Downloads/Custom_OCR_Project/datasets/images/val
+
+nc: 3
+names: ['field_name', 'value', 'unit']
